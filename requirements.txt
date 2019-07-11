@@ -26,3 +26,4 @@ dtw
 arch
 joblib
 fastsst
+coverage
