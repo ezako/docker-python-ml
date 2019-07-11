@@ -23,3 +23,6 @@ xgboost
 rrcf
 fastdtw
 dtw
+arch
+joblib
+fastsst
