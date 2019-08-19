@@ -27,3 +27,4 @@ arch
 joblib
 fastsst
 coverage
+fbprophet
