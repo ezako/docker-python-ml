@@ -4,9 +4,10 @@ pandas
 matplotlib
 seaborn
 tensorflow
-keras
+keras==2.2.4
 #torch
 #mxnet-mkl
+joblib
 scikit-learn
 mysql-connector-python
 pyclustering
@@ -24,7 +25,7 @@ rrcf
 fastdtw
 dtw
 arch
-joblib
 fastsst
 coverage
 fbprophet
+pymysql
