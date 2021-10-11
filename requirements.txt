@@ -3,7 +3,7 @@ scipy
 #pandas==1.1.2
 #matplotlib
 #seaborn
-tensorflow==1.15.2
+tensorflow==2.5.1
 keras==2.2.4
 #torch
 #mxnet-mkl
