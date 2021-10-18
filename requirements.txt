@@ -1,10 +1,8 @@
-numpy
 scipy
-#pandas==1.1.2
-#matplotlib
 #seaborn
-tensorflow==1.15.2
-keras==2.2.4
+tensorflow==2.6.0
+tensorboard==2.6.0
+keras==2.6.0
 #torch
 #mxnet-mkl
 joblib
@@ -27,8 +25,6 @@ fastdtw
 arch
 fastsst
 coverage
-# holidays==0.9.8
-fbprophet
 pymysql
 #pymysql-pool
 more-itertools
