@@ -17,7 +17,7 @@ RUN pip3 install --trusted-host pypi.python.org -r /requirements.txt --compile -
     /var/cache/apt/archives/partial/*.deb /var/cache/apt/*.bin && \
     find /usr/lib/python3 -name __pycache__ | xargs rm -rf && \
     rm -rf /root/.[acpw]*;
-RUN pip3 uninstall matplotlib suod h5py -y
+RUN pip3 uninstall matplotlib suod -y
 RUN useradd --create-home --shell /bin/bash ml_user
 USER ml_user
 WORKDIR /home/ml_user
