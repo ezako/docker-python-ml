@@ -37,3 +37,5 @@ mock
 sql-test
 requests_mock
 h5py
+pyts
+optuna
