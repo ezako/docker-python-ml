@@ -39,3 +39,4 @@ requests_mock
 h5py
 pyts
 optuna
+python-rle
