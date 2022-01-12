@@ -40,3 +40,4 @@ h5py
 pyts
 optuna
 python-rle
+imblearn
