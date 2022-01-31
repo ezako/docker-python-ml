@@ -20,7 +20,7 @@ statsmodels
 pyod
 #xgboost
 rrcf
-fastdtw
+#fastdtw
 #dtw
 arch
 fastsst
