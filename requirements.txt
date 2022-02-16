@@ -20,7 +20,7 @@ statsmodels
 pyod
 #xgboost
 rrcf
-fastdtw
+#fastdtw
 #dtw
 arch
 fastsst
@@ -41,4 +41,4 @@ pyts
 optuna
 python-rle
 imblearn
-cdtw
+#cdtw
