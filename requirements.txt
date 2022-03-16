@@ -42,3 +42,5 @@ optuna
 python-rle
 imblearn
 #cdtw
+tslearn
+lightgbm
