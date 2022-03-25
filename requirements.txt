@@ -26,6 +26,7 @@ arch
 fastsst
 coverage
 pymysql
+sqlalchemy
 #pymysql-pool
 more-itertools
 networkx
