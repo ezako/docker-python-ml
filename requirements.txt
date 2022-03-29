@@ -45,3 +45,4 @@ imblearn
 #cdtw
 tslearn
 lightgbm
+haversine
