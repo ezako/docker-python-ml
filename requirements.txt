@@ -46,3 +46,7 @@ imblearn
 tslearn
 lightgbm
 haversine
+matrixprofile
+uniqed
+antropy
+
